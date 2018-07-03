@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<portfolio>
+
+	<!-- Image 1--> 
+	<title>IIT-JEE</title>
+	<description><![CDATA[Savan qualified <a href="http://" target="_blank">IIT-JEE</a> in 2009 and later on he opted for graduating in Electronics Engineering from <a href="http://" target="_blank">ISM Dhanbad</a>]]></description>
+	<largeImage>portfolio/large/iit-jee_large.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/iit-jee_thumb.jpg</thumbImage>
+	
+	<!-- Image 2--> 
+	<title>Genesis-E-Cell</title>
+	<description><![CDATA[Genesis is an entreprepreneur cell aimed to nurture spirit of entrepreneurship in budding tecnocrates of <a href="http://" target="_blank">ISM Dhanbad</a>]]>
+	</description>
+	<largeImage>portfolio/large/entrepreneurship_large.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/entrepreneurship_thumb.jpg</thumbImage>
+
+	<!-- Image 3--> 
+	<title>Entrepreneurship</title>
+	<largeImage>portfolio/large/entre_large.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/entre_thumb.jpg</thumbImage>
+	<description><![CDATA[]]></description>
+	
+	<!-- Image 4--> 
+	<title>Web-Development</title>
+	<largeImage>portfolio/large/web_large.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/web_thumb.jpg</thumbImage>
+	<description><![CDATA[The following link will take you to few of the creations of Savan!<br/><a href="#" target="_blank">View website(Don't Click that it is under construction would update u as soon as it is done![:p])</a>
+	]]></description>
+	
+	<!-- Image 5--> 
+	<title>Web-Development</title>
+	<description><![CDATA[Savan is damn passionate for web-development and love to learn as many thing as possible! Whatever he has learnt is just by practicing that!
+	]]></description>
+	<largeImage>portfolio/large/web2_large.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/web2_thumb.jpg</thumbImage>
+	
+	<!-- Image 6--> 
+	<title>Web-Development</title>
+	<description><![CDATA[Savan is damn passionate for web-development and love to learn as many thing as possible! Whatever he has learnt is just by practicing that!
+	]]></description>
+	<largeImage>portfolio/large/web3_large.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/web3_thumb.jpg</thumbImage>
+	
+	<!-- Image 7--> 
+	<title>Robotics</title>
+	<description><![CDATA[Savan has won in many robotics competition(manual, autonomous, aquatic, semiautonomous) national level college fest]]></description>
+	<largeImage>portfolio/large/robot_large.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/robot_thumb.jpg</thumbImage>
+	
+	<!-- Image 8--> 
+	<title>Robotics</title>
+	<description><![CDATA[Savan is an esteemed member of Robotics Club of ISM Dhanbad and actively participate in learning and teaching activities of club members 
+	]]></description>
+	<largeImage>portfolio/large/robot2_large.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/robot2_thumb.jpg</thumbImage>
+	
+	<!-- Image 10--> 
+	<title>Kartavya</title>
+	<description><![CDATA[Kartavya an NGO run by students of ISM! Savan is actively contributing to society by teaching poor children<br/><a href="http://">View Website</a>]]></description>
+	<largeImage>portfolio/large/kartavya2_large.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/kartavya2_thumb.jpg</thumbImage>
+	
+	<!-- Image 9--> 
+	<title>Kartavya</title>
+	<description><![CDATA[Kartavya an NGO run by students of ISM! Savan is actively contributing to society by teaching poor children<br/><a href="http://">View Website</a>]]></description>
+	<largeImage>portfolio/large/kartavya_large.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/kartavya_thumb.jpg</thumbImage>
+	
+	
+	<!-- Image 11--> 
+	<title>Success</title>
+	<description><![CDATA[]]></description>
+	<largeImage>portfolio/large/success_large.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/success_thumb.jpg</thumbImage>
+</portfolio>
+

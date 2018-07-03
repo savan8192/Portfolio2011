@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<portfolio>
+
+	<!-- Image 1--> 
+	<title>Our Future Generations</title>
+	<description><![CDATA[Created graphics for an article about the "basic instructions" required by all life: genes.
+	]]></description>
+	<readmore>Here is something to read more about it if anyone intersted in it can read this</readmore>
+	<largeImage>portfolio/large/futuregenerations.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/futuregenerations.jpg</thumbImage>
+	
+	<!-- Image 2--> 
+	<title>Everything I know I've learned by Playing Basketball</title>
+	<description><![CDATA[Article design I did about the life lessons basketball legend Paul Trani learned on the court.
+	]]></description>
+	<readmore>Here is something to read more about it if anyone intersted in it can read this</readmore>
+	<largeImage>portfolio/large/basketball.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/basketball.jpg</thumbImage>
+
+	<!-- Image 3--> 
+	<title>Career Outlook</title>
+	<largeImage>portfolio/large/career.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/career.jpg</thumbImage>
+	<description><![CDATA[Book cover design I did for a publication about employment projections for 2010.
+	]]></description>
+	<readmore>Here is something to read more about it if anyone intersted in it can read this</readmore>
+	<!-- Image 4--> 
+	<title>Cafe Buena</title>
+	<largeImage>portfolio/large/cafebuena.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/cafebuena.jpg</thumbImage>
+	<description><![CDATA[Friendly logo and branding design I did for a local coffee shop in Denver, CO.
+	]]></description>
+	<readmore>Here is something to read more about it if anyone intersted in it can read this</readmore>
+	<!-- Image 5--> 
+	<title>Children of the Revolution</title>
+	<description><![CDATA[Article illustration I did for a 3 part series about the impact of the American Revolution.
+	]]></description>
+	<largeImage>portfolio/large/children.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/children.jpg</thumbImage>
+	<readmore>Here is something to read more about it if anyone intersted in it can read this</readmore>
+	<!-- Image 6--> 
+	<title>Xtapa Apparel</title>
+	<description><![CDATA[Advertising design I did for Xtapa Apparel about their new line of lightweight, wrinkle-free clothing.<br />  <a href="http://www.designupdate.com" target="_blank">View website</a>
+	]]></description>
+	<largeImage>portfolio/large/xtapa.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/xtapa.jpg</thumbImage>
+	<readmore>Here is something to read more about it if anyone intersted in it can read this</readmore>
+	<!-- Image 7--> 
+	<title>Two-Wheel Revolution</title>
+	<description><![CDATA[Website design promoting the use of bicycles for environmentally friendly transportation and recreation.<br />  <a href="http://www.designupdate.com" target="_blank">View website</a>
+	]]></description>
+	<largeImage>portfolio/large/twowheelrevolution.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/twowheelrevolution.jpg</thumbImage>
+	<readmore>Here is something to read more about it if anyone intersted in it can read this</readmore>
+	<!-- Image 8--> 
+	<title>History</title>
+	<description><![CDATA[Did the graphics for a series of online articles that talk about how history gets written and how it impacts the future.
+	]]></description>
+	<largeImage>portfolio/large/history.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/history.jpg</thumbImage>
+	<readmore>Here is something to read more about it if anyone intersted in it can read this</readmore>
+	<!-- Image 9--> 
+	<title>Dawn in Durres</title>
+	<description><![CDATA[Created graphics for an article about the "new age" of Durres, the leading commercial and communications center of Albania.<br />  <a href="http://www.designupdate.com" target="_blank">View website</a>
+	]]></description>
+	<largeImage>portfolio/large/dawnindurres.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/dawnindurres.jpg</thumbImage>
+	<readmore>Here is something to read more about it if anyone intersted in it can read this</readmore>
+	<!-- Image 10--> 
+	<title>Give Peace a Chance</title>
+	<description><![CDATA[Photograph taken of what is called Lennon Wall in Prague.  When Prague was under Soviet control this is where people would come and write John Lennon-inspired sayings as an outlet.<br />  <a href="http://en.wikipedia.org/wiki/Lennon_Wall" target="_blank">More></a>
+	]]></description>
+	<largeImage>portfolio/large/peace.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/peace.jpg</thumbImage>
+	<readmore>Here is something to read more about it if anyone intersted in it can read this</readmore>
+	<!-- Image 11--> 
+	<title>Street Trends</title>
+	<description><![CDATA[Illustration and graphics for this online series about how street trends influence the mass market and through a handful of individuals a global trend can emerge. <br />  <a href="http://www.designupdate.com" target="_blank">View website</a>
+	]]></description>
+	<largeImage>portfolio/large/streettrends.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/streettrends.jpg</thumbImage>
+	<readmore>Here is something to read more about it if anyone intersted in it can read this</readmore>
+<!-- Image 12--> 
+	<title>Holidays in Prague</title>
+	<description><![CDATA[Design for a short story about holidays abroad.<br />  <a href="http://www.designupdate.com" target="_blank">View website</a>
+	]]></description>
+	<largeImage>portfolio/large/prague.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/prague.jpg</thumbImage>
+	<readmore>Here is something to read more about it if anyone intersted in it can read this</readmore>	
+</portfolio>
+
